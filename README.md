@@ -35,6 +35,12 @@ This is a beginner-friendly project built using **C++**. It provides a menu-driv
 
 ---
 
+##Screenshort
+
+https://github.com/CodeVerseAnkit/STUDENT_MANAGEMENT_TOOL/blob/main/Example.jpg
+
+---
+
 ## 🧪 How to Run
 
 ### 🔹 Requirements:
